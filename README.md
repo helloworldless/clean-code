@@ -38,7 +38,7 @@ Clean code and architecture reference
 
 **Don't:** Use experimental formatting or whitespace
 
-**Do:** Follow your chosen style guide's on formatting and whitespace
+**Do:** Follow your chosen style guide's recommendations on formatting and whitespace
 
 **Don't:**
 
